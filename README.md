@@ -23,3 +23,7 @@ Docstrings y documentación bilingüe
 Assets de ejemplo y capturas
 Pruebas automáticas y requirements.txt
 Licencia MIT – Libre para uso comercial y personal
+
+## Buy the Advanced PySide6 Widgets & Layouts Pack
+EN: Get the advanced pack on Gumroad: [Buy now](https://luisg021693.gumroad.com/l/hztbw)
+ES: Consigue el paquete avanzado en Gumroad: [Comprar ahora](https://luisg021693.gumroad.com/l/hztbw)
