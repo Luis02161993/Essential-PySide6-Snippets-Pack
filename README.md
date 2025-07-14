@@ -28,3 +28,8 @@ ES: Consigue el paquete avanzado en Gumroad: [Comprar ahora](https://luisg021693
 EN: Get the advanced pack on Gumroad: [Buy now](https://luisg021693.gumroad.com/l/xwuwz)
 ES: Consigue el paquete avanzado en Gumroad: [Comprar ahora](https://luisg021693.gumroad.com/l/xwuwz)
 
+
+  Note: If you can't find the answer you need in the manuals or product documentation, using an AI like ChatGPT or GitHub Copilot will be your best and most effective option, thanks to their high level of knowledge and instant assistance.
+
+  Nota: Si no encuentras la respuesta que buscas en los manuales o la documentación del producto, usar una IA como ChatGPT o GitHub Copilot será tu mejor y más efectiva opción, gracias a su alto nivel de conocimiento y asistencia instantánea.
+
